@@ -1,0 +1,13 @@
+{
+  "name": "getTweets",
+  "version": "0.0.0",
+  "description": "Script de Node para Bajar tuits",
+  "main": "htmlParser.js",
+  "dependencies": {
+    "html-entities": "~1.1.2",
+    "xml2js": "~0.4.4",
+    "install": "~0.1.8"
+  },
+  "author": "Rodrigo Sanabria",
+  "license": "BSD-2-Clause"
+}
