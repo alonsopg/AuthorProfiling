@@ -14,4 +14,18 @@ We present our approach to extract profile information from anonymized tweets fo
 
 The folder has several scripts to test all the system or each component of the system:
 
+```
+user@MacBook-Pro-de-User:~/Downloads/AuthorProfiling-master/script$ ls
+develop.sh*              download_pan14.sh*       test.sh*
+develop_all_du.sh*       extract_du.sh*           test_all_du.sh*
+develop_all_en.sh*       extract_en.sh*           test_all_en.sh*
+develop_all_es.sh*       extract_es.sh*           test_all_es.sh*
+develop_all_it.sh*       extract_it.sh*           test_all_it.sh*
+develop_pipeline_du.sh*  tag_dutch.sh*            train.sh*
+develop_pipeline_en.bat* tag_english.sh*          train_all_du.sh*
+develop_pipeline_en.sh*  tag_italian.sh*          train_all_en.sh*
+develop_pipeline_es.sh*  tag_spanish.sh*          train_all_es.sh*
+develop_pipeline_it.sh*  tag_train_spanish.sh*    train_all_it.sh*
+```
+
 
