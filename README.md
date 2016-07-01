@@ -8,7 +8,7 @@ This task is about predicting an author's demographics from his writing. Partici
 
 ## About
 
-We present our approach to extract profile information from anonymized tweets for the author profiling task at PAN 2015. Particularly we explore the versatility of random forest classifiers for the genre and age groups information and random forest regressions to  score important aspects of the personality of a user. Furthermore we propose a set of features tailored for this task based on characteristics of the twitters. In particular, our approach relies on previous proposed features for sentiment analysis tasks.
+[We present our approach](http://ceur-ws.org/Vol-1391/72-CR.pdf) to extract profile information from anonymized tweets for the author profiling task at PAN 2015. Particularly we explore the versatility of random forest classifiers for the genre and age groups information and random forest regressions to  score important aspects of the personality of a user. Furthermore we propose a set of features tailored for this task based on characteristics of the twitters. In particular, our approach relies on previous proposed features for sentiment analysis tasks.
 
 
 
